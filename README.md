@@ -18,7 +18,7 @@ Learn how to track, manage, and share your code using Git and GitHub.
 - 🔗 [Git & GitHub Full Course for Beginners – freeCodeCamp (4 hrs)](https://youtu.be/RGOj5yH7evk?si=Ih94IDd9N7WA2Ask)  
   A complete guide covering Git basics, GitHub workflows, commits, branches, pull requests, and more.
 
-- 🔗 [Git & GitHub Crash Course – Traversy Media (1 hr)](https://youtu.be/a9u2yZvsqHA?si=uQ_YbszI_lLgTlXW)  
+- 🔗 [Git & GitHub Crash Course – Traversy Media (10 mins)](https://youtu.be/a9u2yZvsqHA?si=uQ_YbszI_lLgTlXW)  
   Quick crash course for absolute beginners covering local Git setup, repositories, commits, pushing to GitHub, and collaboration basics.
 
 ---
