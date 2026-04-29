@@ -1,116 +1,85 @@
-# CST1500 – Computer Systems Resources
+# CST1500 – Computer Systems
 
-Welcome to the resource hub for CST1500. This guide includes tutorials, lectures, and playlists to help you build a strong foundation in systems-level computing.
+CST1500 is where you start to understand what's actually going on under the hood — how operating systems work, what a CPU is doing, why Linux behaves the way it does, and how to write scripts that do things for you automatically.
+
+It covers a lot of ground. The resources below are the ones worth spending time with.
 
 ---
 
 ## Moodle Materials
 
-Actual course files from Moodle, organised by intake:
+Actual course files organised by intake:
 
 | Intake | Contents |
 |--------|----------|
-| [2024-25 April Intake](./2024-25-April-Intake) | Lecture slides, lab worksheets, workshops, online sessions, coursework specs, mock tests |
+| [2025-26 April Intake](./2025-26-April-Intake) | Lecture slides, lab worksheets, workshops, online sessions, coursework specs, mock tests |
 
 > Have files from a different intake? Open a pull request and add a folder for your cohort.
 
 ---
 
-## 🐧 1. Linux
+## Resources
 
-**▶️ Playlist:** [Introduction to Linux](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+### Linux
 
-This YouTube series covers:
-- Basic Linux commands
-- File system structure
-- Permissions and process handling
-- Shell navigation and scripting fundamentals
+**Playlist:** [Introduction to Linux](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
+
+Gets you comfortable with the command line — file system navigation, permissions, processes. You'll use this knowledge in basically every lab.
 
 ---
 
-## 🐚 2. Bash Scripting
+### Bash Scripting
 
-**▶️ Playlist:** [Learn Bash Scripting](https://www.youtube.com/watch?v=SPwyp2NG-bE&list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)
+**Playlist:** [Learn Bash Scripting](https://www.youtube.com/watch?v=SPwyp2NG-bE&list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)
 
-In this playlist, you'll learn:
-- Writing `.sh` scripts
-- Using variables, loops, and conditionals
-- Automating tasks
-- File manipulation and permissions via scripts
+Once you know the basics of Linux, this teaches you how to actually automate things — variables, loops, conditionals, file manipulation. Batch scripting is the Windows equivalent if that's what you're on.
+
+**Playlist (Windows):** [Batch File Programming](https://www.youtube.com/watch?v=-_NleTGYE24&list=PL35B3EFC3D6CD1DF7)
 
 ---
 
-## 🧠 3. Computer Architecture
+### Computer Architecture
 
-**▶️ Playlist:** [Computer Architecture Crash Course](https://youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q&si=qDhlBCjL9Iv1lD-p)
+**Playlist:** [Computer Architecture Crash Course](https://youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q&si=qDhlBCjL9Iv1lD-p)
 
-Topics include:
-- CPU organization
-- Memory hierarchy
-- Instruction sets
-- Binary logic and data representation
+CPU organisation, memory hierarchy, instruction sets, binary. Dense but important — good to watch alongside the lecture slides.
 
 ---
 
-## 🧵 4. Operating Systems (Processes, Threads, Scheduling)
+### Operating Systems
 
-**▶️ Playlist:** [OS Concepts Simplified](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=44jxc1hG3wvdgvK)
+**Playlist:** [OS Concepts Simplified](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&si=44jxc1hG3wvdgvK)
 
-Key concepts covered:
-- Process management and multithreading
-- Scheduling algorithms (FCFS, Round Robin, etc.)
-- Deadlocks and synchronization
+Processes, threads, scheduling algorithms, deadlocks. This is the stuff that comes up in every test.
 
 ---
 
-## 🧰 5. General Computer Knowledge
+### Crash Course: Computer Science ⭐
 
-**▶️ Playlist:** [Crash Course: Computers](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+**Playlist:** [Crash Course: Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-This entertaining and beginner-friendly series covers:
-- History of computing
-- Hardware vs. software
-- How computers work internally
-- Modern computing applications
+This one is worth calling out separately. It's the single most useful resource for CST1500 — it ties together everything from binary and logic gates to CPUs, operating systems, and beyond, and does it in a way that actually makes sense. Even if you're not doing this module and you're just someone who wants to understand how computers work, watch this. It's only a few minutes per episode and the whole thing is free.
 
 ---
 
-## ⚙️ 6. Batch Scripting
+### CS50 – Harvard's Intro to CS
 
-**▶️ Playlist:** [Batch File Programming](https://www.youtube.com/watch?v=-_NleTGYE24&list=PL35B3EFC3D6CD1DF7)
+**Full Course:** [CS50 – Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-Covers Windows-based scripting using `.bat` files:
-- Writing simple batch scripts
-- File and folder automation
-- Conditional logic and loops in CMD
+C programming, algorithms, memory, data structures, and more. Goes deeper than the module requires but it's genuinely one of the best free CS courses out there. Worth doing at your own pace.
 
 ---
 
-## 🎓 7. CS50: Harvard's Intro to Computer Science
+## Tips
 
-**▶️ Full Course:** [CS50 – Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-
-This is a comprehensive course for learning:
-- C programming
-- Algorithms and data structures
-- Memory management
-- Intro to web development and cybersecurity
-
----
-
-## 📌 Tips
-
-- Start with **Linux** and **Bash** to get comfortable with the command line.
-- Use **CS50** alongside **Computer Architecture** for deeper understanding.
-- Watch the **OS playlist** while studying your lecture slides on processes and threads.
-- Practice scripting weekly using both Bash and Batch based on your OS.
+- Get comfortable with Linux early. Nearly all the labs assume you can navigate the terminal.
+- The Crash Course playlist is a great way to see how everything connects before diving into individual topics.
+- CS50 and the Architecture playlist work well together — one shows you the code, the other shows you what the hardware is doing.
 
 ---
 
 ## Contributing
 
-- To add resources: open a pull request
-- To report broken links or missing files: raise an issue
-- To add Moodle materials from a different intake: add a new folder following the `YYYY-YY-MonthName-Intake` naming convention
-
-
+- Found a better resource? Open a pull request.
+- Have files from a different intake? Add a folder using the `YYYY-YY-MonthName-Intake` format.
+- Broken link? Raise an issue.

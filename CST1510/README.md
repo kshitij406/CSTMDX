@@ -1,12 +1,14 @@
 # CST1510 – Programming with Python
 
-This folder contains hand-picked resources to help you master Python programming as part of the CST1510 module.
+CST1510 is your introduction to programming. If you've never written code before, this is where it clicks. If you have, it's still worth paying attention — the module goes further than the basics and gets into OOP, sockets, and databases by the end.
+
+Python is a good first language. It's readable, widely used, and powerful enough that you'll keep using it well beyond Year 1.
 
 ---
 
 ## Moodle Materials
 
-Actual course files from Moodle, organised by intake:
+Actual course files organised by intake:
 
 | Intake | Contents |
 |--------|----------|
@@ -16,90 +18,70 @@ Actual course files from Moodle, organised by intake:
 
 ---
 
-## 🧑‍💻 1. Introduction to Python (Beginner-Friendly)
+## Resources
 
-**🎓 Course:** [CS50's Introduction to Programming with Python – Harvard](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
+### Starting Out
 
-This free online course covers:
-- Python basics (variables, data types, loops, functions)
-- Problem-solving with Python
-- Hands-on exercises and quizzes
-- Excellent for total beginners
+**Course:** [CS50's Introduction to Programming with Python – Harvard](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)
 
----
+If you're completely new to Python, start here. It's free, well-paced, and the exercises are actually useful rather than just busywork.
 
-## 🧱 2. Object-Oriented Programming (OOP) in Python
+**Repo:** [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 
-**▶️ Video Tutorial:** [Python OOP Crash Course](https://youtu.be/Ej_02ICOIgs?si=0Ms-C0HlDG-19JFL)
-
-What you’ll learn:
-- Classes, objects, attributes
-- Encapsulation, inheritance, polymorphism
-- How to structure larger programs using OOP principles
+A structured 30-day roadmap with challenges and solutions. Good if you learn by doing and want something to work through at your own pace alongside the module.
 
 ---
 
-## 🚀 3. 30 Days of Python
+### Object-Oriented Programming
 
-**🧰 GitHub Repo:** [Asabeneh's 30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+**Video:** [Python OOP Crash Course](https://youtu.be/Ej_02ICOIgs?si=0Ms-C0HlDG-19JFL)
 
-This project-based learning repo includes:
-- 30-day learning roadmap
-- Challenges and solutions
-- Coverage of core and advanced topics (regex, JSON, modules, etc.)
-
-Perfect for fast learning and daily practice.
+OOP is where a lot of people get confused the first time. This video explains classes, objects, inheritance, and polymorphism clearly. Worth watching before or after the Week 7 material.
 
 ---
 
-## 🌐 4. Socket Programming in Python
+### Socket Programming
 
-**▶️ Video Guide:** [Python Socket Programming Tutorial](https://youtu.be/YwWfKitB8aA?si=FjgA02UAl8Iuq0Z5)
+**Video:** [Python Socket Programming Tutorial](https://youtu.be/YwWfKitB8aA?si=FjgA02UAl8Iuq0Z5)
 
-Topics include:
-- TCP/UDP sockets
-- Creating a simple client-server app
-- Handling multiple connections
-- Building the backend for real-time applications
+TCP/UDP sockets, client-server apps, handling multiple connections. This is the networking side of the module — useful for the Week 8 labs and relevant to Cybersecurity students especially.
 
 ---
 
-## 🕸️ 5. Web Scraping with Python
+### Web Scraping
 
-**▶️ Tutorial:** [Web Scraping with BeautifulSoup](https://youtu.be/XVv6mJpFOb0?si=8Vc-KA9DjnmS6pMa)
+**Video:** [Web Scraping with BeautifulSoup](https://youtu.be/XVv6mJpFOb0?si=8Vc-KA9DjnmS6pMa)
 
-You’ll learn:
-- Scraping websites using `requests` and `BeautifulSoup`
-- Navigating HTML structure
-- Extracting and storing data
-- Ethical and legal considerations of scraping
+`requests` + `BeautifulSoup` to pull data from websites. Genuinely useful beyond the module — once you know how to scrape, you can automate a lot of things.
 
 ---
 
-## 🪟 6. Building GUIs with Tkinter
+### GUIs with Tkinter
 
-**▶️ Video:** [Python GUI with Tkinter](https://youtu.be/ibf5cx221hk?si=v8Ybd2R3KEXqoQj_)
+**Video:** [Python GUI with Tkinter](https://youtu.be/ibf5cx221hk?si=v8Ybd2R3KEXqoQj_)
 
-Build desktop apps using Python:
-- Buttons, labels, input fields
-- Event handling
-- Layouts and windows
-- A great way to visualize Python projects
+Builds on Week 10. If the in-class examples feel rushed, this gives you time to follow along and actually understand the layout system.
 
 ---
 
-## 🗄️ 7. Using SQLite with Python
+### SQLite with Python
 
-**▶️ Video Tutorial:** [SQLite in Python](https://youtu.be/byHcYRpMgI4?si=WhRZBuPGaLlQ-LpU)
+**Video:** [SQLite in Python](https://youtu.be/byHcYRpMgI4?si=WhRZBuPGaLlQ-LpU)
 
-Covers:
-- Connecting to SQLite databases
-- Creating tables and inserting data
-- Reading and writing with SQL in Python
-- Building persistent storage for Python apps
+How to connect Python to a database, create tables, insert and query data. Covers Week 9 in a lot more depth than the lab sheet does.
 
 ---
 
-📌 *Tip: Practice each topic with a small project or challenge. Combine skills (like sockets + SQLite) to make cool mini-programs.*
+## Tips
 
+- Don't skip the Jupyter notebooks in the Moodle folder — they're the lab exercises with the answers built in, which makes them useful for checking your understanding.
+- The coursework projects (Vending Machine, Crypto Platform) are bigger than they look. Start early.
+- If something isn't clicking, the 30 Days of Python repo has worked examples for nearly every topic in the module.
 
+---
+
+## Contributing
+
+- Found a better resource? Open a pull request.
+- Have files from a different intake? Add a folder using the `YYYY-YY-MonthName-Intake` format.
+- Broken link? Raise an issue.
