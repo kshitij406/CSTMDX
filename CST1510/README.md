@@ -1,6 +1,18 @@
-# CST1510 – Programming with Python 🐍
+# CST1510 – Programming with Python
 
 This folder contains hand-picked resources to help you master Python programming as part of the CST1510 module.
+
+---
+
+## Moodle Materials
+
+Actual course files from Moodle, organised by intake:
+
+| Intake | Contents |
+|--------|----------|
+| [2025-26 April Intake](./2025-26-April-Intake) | Weekly lab sheets, workshop slides, Jupyter notebooks, code examples, coursework specs |
+
+> Have files from a different intake? Open a pull request and add a folder for your cohort.
 
 ---
 
