@@ -11,6 +11,7 @@ A growing collection of resources that don't belong to a specific module but are
 | [Computerphile](https://www.youtube.com/@Computerphile) | Cryptography, OS, computer architecture — explained by experts |
 | [Tom Scott](https://www.youtube.com/@TomScottGo) | Technology, linguistics, and curious concepts — great for sparking curiosity |
 | [Linus Tech Tips](https://www.youtube.com/@LinusTechTips) | PC hardware, peripherals, and emerging tech trends |
+| [Fireship](https://www.youtube.com/@Fireship) | Keeping up with tech news and new tools espcially with the code report series |
 
 ---
 
