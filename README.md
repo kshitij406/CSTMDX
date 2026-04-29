@@ -2,7 +2,7 @@
 
 Resources and Moodle materials for **Year 1, Semester 1** students on the BSc Computer Science and BSc Cybersecurity courses at Middlesex University.
 
-The idea is simple: instead of hunting through Moodle every time you need a lab sheet or a decent explanation of something, it's all here — organised, with extra learning resources added on top.
+The idea is simple: instead of hunting through Moodle every time you need a lab sheet or a decent explanation of something, it's all here - organised, with extra learning resources added on top.
 
 ---
 
@@ -12,15 +12,15 @@ Both of these run in Semester 1 and are core for both CS and Cybersecurity stude
 
 | Module | What it covers |
 |--------|----------------|
-| [CST1500 – Computer Systems](./CST1500) | How computers actually work — Linux, Bash, OS, memory, architecture |
-| [CST1510 – Programming with Python](./CST1510) | Python from the ground up — OOP, sockets, GUIs, databases |
+| [CST1500 – Computer Systems](./CST1500) | How computers actually work - Linux, Bash, OS, memory, architecture |
+| [CST1510 – Programming with Python](./CST1510) | Python from the ground up - OOP, sockets, GUIs, databases |
 | [Misc](./Misc) | Channels, tools, and stuff worth knowing regardless of your module |
 
 ---
 
 ## Moodle Files
 
-Each module folder has a subfolder with actual files from Moodle — lecture slides, lab worksheets, workshops, coursework specs, mock tests. If your intake isn't listed, check anyway since a lot of the material carries over between years.
+Each module folder has a subfolder with actual files from Moodle - lecture slides, lab worksheets, workshops, coursework specs, mock tests. If your intake isn't listed, check anyway since a lot of the material carries over between years.
 
 ---
 
@@ -30,10 +30,10 @@ You'll use GitHub throughout the degree, so getting comfortable with it early is
 
 | Resource | Time | What it covers |
 |----------|------|----------------|
-| [Git & GitHub Full Course – freeCodeCamp](https://youtu.be/RGOj5yH7evk?si=Ih94IDd9N7WA2Ask) | 1 hr | The full workflow — commits, branches, pull requests |
+| [Git & GitHub Full Course – freeCodeCamp](https://youtu.be/RGOj5yH7evk?si=Ih94IDd9N7WA2Ask) | 1 hr | The full workflow - commits, branches, pull requests |
 | [Git & GitHub Crash Course – Traversy Media](https://youtu.be/a9u2yZvsqHA?si=uQ_YbszI_lLgTlXW) | 10 min | Just enough to get started right now |
 
-The 10-minute one is fine if you just need to clone something. Watch the full one when you have an hour — it'll save you a lot of confusion down the line.
+The 10-minute one is fine if you just need to clone something. Watch the full one when you have an hour - it'll save you a lot of confusion down the line.
 
 ---
 

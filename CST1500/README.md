@@ -1,6 +1,6 @@
 # CST1500 – Computer Systems
 
-CST1500 is where you start to understand what's actually going on under the hood — how operating systems work, what a CPU is doing, why Linux behaves the way it does, and how to write scripts that do things for you automatically.
+CST1500 is where you start to understand what's actually going on under the hood - how operating systems work, what a CPU is doing, why Linux behaves the way it does, and how to write scripts that do things for you automatically.
 
 It covers a lot of ground. The resources below are the ones worth spending time with.
 
@@ -24,7 +24,7 @@ Actual course files organised by intake:
 
 **Playlist:** [Introduction to Linux](https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
 
-Gets you comfortable with the command line — file system navigation, permissions, processes. You'll use this knowledge in basically every lab.
+Gets you comfortable with the command line - file system navigation, permissions, processes. You'll use this knowledge in basically every lab.
 
 ---
 
@@ -32,7 +32,7 @@ Gets you comfortable with the command line — file system navigation, permissio
 
 **Playlist:** [Learn Bash Scripting](https://www.youtube.com/watch?v=SPwyp2NG-bE&list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)
 
-Once you know the basics of Linux, this teaches you how to actually automate things — variables, loops, conditionals, file manipulation. Batch scripting is the Windows equivalent if that's what you're on.
+Once you know the basics of Linux, this teaches you how to actually automate things - variables, loops, conditionals, file manipulation. Batch scripting is the Windows equivalent if that's what you're on.
 
 **Playlist (Windows):** [Batch File Programming](https://www.youtube.com/watch?v=-_NleTGYE24&list=PL35B3EFC3D6CD1DF7)
 
@@ -42,7 +42,7 @@ Once you know the basics of Linux, this teaches you how to actually automate thi
 
 **Playlist:** [Computer Architecture Crash Course](https://youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q&si=qDhlBCjL9Iv1lD-p)
 
-CPU organisation, memory hierarchy, instruction sets, binary. Dense but important — good to watch alongside the lecture slides.
+CPU organisation, memory hierarchy, instruction sets, binary. Dense but important - good to watch alongside the lecture slides.
 
 ---
 
@@ -58,7 +58,7 @@ Processes, threads, scheduling algorithms, deadlocks. This is the stuff that com
 
 **Playlist:** [Crash Course: Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-This one is worth calling out separately. It's the single most useful resource for CST1500 — it ties together everything from binary and logic gates to CPUs, operating systems, and beyond, and does it in a way that actually makes sense. Even if you're not doing this module and you're just someone who wants to understand how computers work, watch this. It's only a few minutes per episode and the whole thing is free.
+This one is worth calling out separately. It's the single most useful resource for CST1500 - it ties together everything from binary and logic gates to CPUs, operating systems, and beyond, and does it in a way that actually makes sense. Even if you're not doing this module and you're just someone who wants to understand how computers work, watch this. It's only a few minutes per episode and the whole thing is free.
 
 ---
 
@@ -74,7 +74,7 @@ C programming, algorithms, memory, data structures, and more. Goes deeper than t
 
 - Get comfortable with Linux early. Nearly all the labs assume you can navigate the terminal.
 - The Crash Course playlist is a great way to see how everything connects before diving into individual topics.
-- CS50 and the Architecture playlist work well together — one shows you the code, the other shows you what the hardware is doing.
+- CS50 and the Architecture playlist work well together - one shows you the code, the other shows you what the hardware is doing.
 
 ---
 
