@@ -1,14 +1,14 @@
 # CST1510 – Programming with Python
 
-CST1510 is your introduction to programming. If you've never written code before, this is where it clicks. If you have, it's still worth paying attention - the module goes further than the basics and gets into OOP, sockets, and databases by the end.
+CST1510 is your introduction to programming. If you've never written code before, this is where it clicks. If you have, it's still worth paying attention because the module goes further than the basics and gets into OOP, sockets, and databases by the end.
 
 Python is a good first language. It's readable, widely used, and powerful enough that you'll keep using it well beyond Year 1.
 
 ---
 
-## Moodle Materials
+## Course Files
 
-Actual course files organised by intake:
+Files from the uni portal, organised by intake:
 
 | Intake | Contents |
 |--------|----------|
@@ -44,7 +44,7 @@ OOP is where a lot of people get confused the first time. This video explains cl
 
 **Video:** [Python Socket Programming Tutorial](https://youtu.be/YwWfKitB8aA?si=FjgA02UAl8Iuq0Z5)
 
-TCP/UDP sockets, client-server apps, handling multiple connections. This is the networking side of the module - useful for the Week 8 labs and relevant to Cybersecurity students especially.
+TCP/UDP sockets, client-server apps, handling multiple connections. This is the networking side of the module, and especially relevant if you're on the Cybersecurity course.
 
 ---
 
@@ -52,7 +52,7 @@ TCP/UDP sockets, client-server apps, handling multiple connections. This is the 
 
 **Video:** [Web Scraping with BeautifulSoup](https://youtu.be/XVv6mJpFOb0?si=8Vc-KA9DjnmS6pMa)
 
-`requests` + `BeautifulSoup` to pull data from websites. Genuinely useful beyond the module - once you know how to scrape, you can automate a lot of things.
+`requests` + `BeautifulSoup` to pull data from websites. Genuinely useful beyond the module. Once you know how to scrape, you can automate a lot of things.
 
 ---
 
@@ -74,7 +74,7 @@ How to connect Python to a database, create tables, insert and query data. Cover
 
 ## Tips
 
-- Don't skip the Jupyter notebooks in the Moodle folder - they're the lab exercises with the answers built in, which makes them useful for checking your understanding.
+- Don't skip the Jupyter notebooks in the course files folder. They're the lab exercises with the answers built in, which makes them useful for checking your understanding.
 - The coursework projects (Vending Machine, Crypto Platform) are bigger than they look. Start early.
 - If something isn't clicking, the 30 Days of Python repo has worked examples for nearly every topic in the module.
 
