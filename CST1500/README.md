@@ -1,6 +1,18 @@
-# CST1500 – Computer Systems Resources 🖥️
+# CST1500 – Computer Systems Resources
 
 Welcome to the resource hub for CST1500. This guide includes tutorials, lectures, and playlists to help you build a strong foundation in systems-level computing.
+
+---
+
+## Moodle Materials
+
+Actual course files from Moodle, organised by intake:
+
+| Intake | Contents |
+|--------|----------|
+| [2024-25 April Intake](./2024-25-April-Intake) | Lecture slides, lab worksheets, workshops, online sessions, coursework specs, mock tests |
+
+> Have files from a different intake? Open a pull request and add a folder for your cohort.
 
 ---
 
@@ -95,6 +107,10 @@ This is a comprehensive course for learning:
 
 ---
 
-📁 *To contribute more resources, feel free to create a pull request or raise an issue.*
+## Contributing
+
+- To add resources: open a pull request
+- To report broken links or missing files: raise an issue
+- To add Moodle materials from a different intake: add a new folder following the `YYYY-YY-MonthName-Intake` naming convention
 
 
